@@ -1,5 +1,5 @@
 ## trabalho-banco-de-dados
-## Alunos: Roberval, Antonio
+## Alunos: Roberval, Antonio e Raell
 
 # Fabricante para Produto:
   -Um fabricante pode produzir muitos produtos (relacionamento 1-n).
